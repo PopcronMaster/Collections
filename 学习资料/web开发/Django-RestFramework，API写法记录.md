@@ -66,6 +66,8 @@ class HotMovieSerializer(serializers.ModelSerializer):
 
 #### 2.API写法
 
+
+
 ##### 2.1继承 View类
 
 重写View类的get//post/put/putch/delete等方法，这个方法可以不写serializes.py文件，但需要手动实现数据的格式化
