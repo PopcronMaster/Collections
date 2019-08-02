@@ -1,0 +1,18 @@
+
+#search_friend {
+    margin: 10px 10px;
+    width: 70%;
+    height: 40px;
+}
+
+#search_button {
+    width: 20%;
+    height: 40px;
+    border: 1px solid #4F4F4F;
+}
+
+#error_msg {
+    margin: 10px 10px;
+    height: 30px;
+    color: red;
+}
